@@ -19,7 +19,7 @@ Tides is a modern, all-in-one music player for Windows that lets you play music 
 ## Installation
 
 ### Windows
-1. Download the latest release from the [Releases](https://github.com/
+1. Download the latest release from the [Releases] (https://github.com/
 flyingwumpusmt-cell/TidesMusic/releases/latest) page.
 2. Run `Tides.exe`.
 3. Allow access if prompted by Windows Defender SmartScreen.
