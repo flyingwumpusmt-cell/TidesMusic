@@ -1,7 +1,5 @@
 # Tides 🌊 - The Ultimate Music Player
 
-![Tides Logo](./tides.png)
-
 Tides is a modern, all-in-one music player for Windows that lets you play music from **YouTube, radio stations, and podcasts** in a clean, animated, Spotify-like interface. It features themes, animations, and a full playlist system for an immersive listening experience.
 
 ---
@@ -17,14 +15,6 @@ Tides is a modern, all-in-one music player for Windows that lets you play music 
 - **Album Art Display**: See album art for tracks and radio streams.
 - **History Tracking**: Every song you play is logged to a local history file.
 - **Professional Updates Panel**: See all changes and new features in one place.
-
----
-
-## Screenshots
-
-![Tides Screenshot](./screenshot.png)
-
----
 
 ## Installation
 
