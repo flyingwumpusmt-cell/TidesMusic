@@ -44,9 +44,7 @@ Open PowerShell and run the following command (replace the path if different):
 Step 3️⃣: Run TidesMusic
 
 📦 Releases
-
-Download the latest release from the Releases
- page.
+[⬇️ Download Latest Release](https://github.com/flyingwumpusmtcell/TidesMusic/releases/latest)
 
 🤝 Contributing
 
