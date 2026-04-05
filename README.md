@@ -1,65 +1,65 @@
+TidesMusic 🌊
 
-# Tides 🌊 - The Ultimate Music Player
+TidesMusic is a modern, Spotify-like music player for Windows that supports YouTube search, playlists, radio streaming, podcasts, and more. Designed for smooth, animated UI and multiple themes.
 
-Tides is a modern, all-in-one music player for Windows that lets you play music from **YouTube, radio stations, and podcasts** in a clean, animated, Spotify-like interface. It features themes, animations, and a full playlist system for an immersive listening experience.
+Features
+YouTube search and playlist support
+Radio station streaming (Dutch stations included)
+Podcast playback
+Fully animated playback controls
+Multiple themes: Dexter 🩸, Forest 🌲, Helldivers 2 🔫
+Pulse effect on playlist items
+Volume control slider
+Album art display for tracks
+Modern, responsive GUI
+No ads
+No Ads
 
----
+TidesMusic is completely ad-free. Enjoy music without interruptions or popups.
 
-## Features
+Installing Dependencies
 
-- **YouTube Search & Playlists**: Search and play videos or playlists directly in the app.
-- **Radio Streaming**: Stream popular stations like NPO Radio 1, Radio 538, Qmusic, and more.
-- **Podcast Support**: Access and play popular podcasts.
-- **Animated Controls**: Fully animated playback buttons and playlist effects.
-- **Themes**: Switch between **Dexter 🩸**, **Forest 🌲**, and **Helldivers 2 🔫** themes.
-- **Volume Control Slider**: Sleek slider for adjusting volume.
-- **Album Art Display**: Displays album art for tracks and radio streams.
-- **History Tracking**: Logs every played song to a local history file.
-- **Updates Panel**: View all recent updates directly in the app.
+Before running Tides, make sure all required Python packages are installed.
 
----
+Step 1: Check your Python path
 
-## Installation
+Locate your Python executable. Common paths:
 
-### Windows
-1. Download the latest release from the [Releases](https://github.com/flyingwumpusmt-cell/TidesMusic/releases/latest) page.
-2. Run `Tides.exe`.
-3. Allow access if prompted by Windows Defender SmartScreen.
+Default Python 3.11:
+C:\Program Files\Python311\python.exe
+Custom Python 3.14 install:
+C:\Users\<YourUser>\AppData\Local\Python\pythoncore-3.14-64\python.exe
+Step 2: Install all dependencies
 
----
+Open PowerShell and run the following (replace the path if different):
 
-## Usage
+& "C:\Program Files\Python311\python.exe" -m pip install --upgrade pip PyQt6 python-vlc yt-dlp requests feedparser Pillow
 
-1. Enter a **search query** in the top bar to find YouTube videos.
-2. Click **Themes 🎨** to switch the app’s theme.
-3. Use the playback controls (play, pause, skip, stop) to manage audio.
-4. Adjust the volume with the slider.
-5. Click **Updates 📝** to view the changelog.
+This will install:
 
----
+PyQt6 → GUI
+python-vlc → audio playback
+yt-dlp → YouTube search and playlist support
+requests → web requests
+feedparser → podcast RSS feeds
+Pillow → image handling
+Step 3: Run TidesMusic
 
-## Contributing
+Navigate to the folder containing Tides.py and run:
 
-Contributions are welcome! If you have new features, bug fixes, or improvements:
+& "C:\Path\To\Python.exe" Tides.py
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature/YourFeature`.
-5. Open a Pull Request.
+TidesMusic should now launch with full functionality.
 
----
+https://github.com/flyingwumpusmt-cell/TidesMusic/releases/latest
 
-## License
+Download the latest release from the Releases
+.
 
-Tides is released under the **MIT License**. See [LICENSE](./LICENSE) for details.
+Contributing
 
----
+Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
 
-## Support
+License
 
-For issues, feature requests, or feedback, please use the [GitHub Issues](https://github.com/flyingwumpusmt-cell/TidesMusic/issues) page.
-
----
-
-Made with ❤️ for music lovers.
+This project is open-source under the MIT License.
