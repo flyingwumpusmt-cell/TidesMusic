@@ -21,7 +21,7 @@ Before using TidesMusic, install all required Python packages. Open PowerShell a
 This installs: 🖥 `PyQt6` → GUI, 🎵 `python-vlc` → Audio playback, 🔎 `yt-dlp` → YouTube & playlist support, 🌐 `requests` → Web requests, 🎙 `feedparser` → Podcast RSS feeds, 🖼 `Pillow` → Image handling.  
 
 ## 📦 Releases
-Get the latest version of TidesMusic here: [⬇️ Download Latest Release](https://github.com/flyingwumpusmtcell/TidesMusic/releases/latest) and stay up-to-date with all new features and fixes.  
+Get the latest version of TidesMusic here: [⬇️ Download Latest Release](https://github.com/flyingwumpusmt-cell/TidesMusic/releases/latest) and stay up-to-date with all new features and fixes.  
 
 ## 🤝 Contributing
 Contributions are welcome! Submit a pull request or open an issue to suggest improvements or report bugs.  
