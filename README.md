@@ -43,12 +43,6 @@ Open PowerShell and run the following command (replace the path if different):
 🖼 Pillow → Image handling
 Step 3️⃣: Run TidesMusic
 
-Navigate to the folder containing Tides.py and run:
-
-& "C:\Path\To\Python.exe" Tides.py
-
-TidesMusic should now launch with full functionality! 🎶
-
 📦 Releases
 
 Download the latest release from the Releases
