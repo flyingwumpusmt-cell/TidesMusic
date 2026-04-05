@@ -1,27 +1,27 @@
-TidesMusic 🌊
+🌊 TidesMusic
 
-TidesMusic is a modern, Spotify-like music player for Windows that supports YouTube search, playlists, radio streaming, podcasts, and more. Designed for smooth, animated UI and multiple themes.
+TidesMusic is a modern, Spotify-like music player for Windows with YouTube & playlist support, radio streaming, podcasts, and smooth animated UI. Fully ad-free and themeable!
 
-Features
-YouTube search and playlist support
-Radio station streaming (Dutch stations included)
-Podcast playback
-Fully animated playback controls
-Multiple themes: Dexter 🩸, Forest 🌲, Helldivers 2 🔫
-Pulse effect on playlist items
-Volume control slider
-Album art display for tracks
-Modern, responsive GUI
-No ads
-No Ads
+🎵 Features
+🔎 YouTube Search & Playlist Support
+📻 Radio Streaming (Dutch stations included)
+🎙 Podcast Playback
+✨ Animated Playback Controls
+🎨 Themes: Dexter 🩸 | Forest 🌲 | Helldivers 2 🔫
+💓 Pulse Effect on playlist items
+🔊 Volume Control Slider
+🖼 Album Art Display
+🖥 Modern, Responsive GUI
+🚫 No Ads
+🚫 No Ads
 
-TidesMusic is completely ad-free. Enjoy music without interruptions or popups.
+TidesMusic is completely ad-free — enjoy uninterrupted music!
 
-Installing Dependencies
+🛠 Installing Dependencies
 
-Before running Tides, make sure all required Python packages are installed.
+Before running TidesMusic, install all required Python packages.
 
-Step 1: Check your Python path
+Step 1️⃣: Check your Python Path
 
 Locate your Python executable. Common paths:
 
@@ -29,37 +29,37 @@ Default Python 3.11:
 C:\Program Files\Python311\python.exe
 Custom Python 3.14 install:
 C:\Users\<YourUser>\AppData\Local\Python\pythoncore-3.14-64\python.exe
-Step 2: Install all dependencies
+Step 2️⃣: Install All Dependencies
 
-Open PowerShell and run the following (replace the path if different):
+Open PowerShell and run the following command (replace the path if different):
 
 & "C:\Program Files\Python311\python.exe" -m pip install --upgrade pip PyQt6 python-vlc yt-dlp requests feedparser Pillow
 
-This will install:
+✅ This installs:
 
-PyQt6 → GUI
-python-vlc → audio playback
-yt-dlp → YouTube search and playlist support
-requests → web requests
-feedparser → podcast RSS feeds
-Pillow → image handling
-Step 3: Run TidesMusic
+🖥 PyQt6 → GUI
+🎵 python-vlc → Audio playback
+🔎 yt-dlp → YouTube & playlist support
+🌐 requests → Web requests
+🎙 feedparser → Podcast RSS feeds
+🖼 Pillow → Image handling
+Step 3️⃣: Run TidesMusic
 
 Navigate to the folder containing Tides.py and run:
 
 & "C:\Path\To\Python.exe" Tides.py
 
-TidesMusic should now launch with full functionality.
+TidesMusic should now launch with full functionality! 🎶
 
-https://github.com/flyingwumpusmt-cell/TidesMusic/releases/latest
+📦 Releases
 
 Download the latest release from the Releases
-.
+ page.
 
-Contributing
+🤝 Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements or report bugs.
 
-License
+📜 License
 
 This project is open-source under the MIT License.
