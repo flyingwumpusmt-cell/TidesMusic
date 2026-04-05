@@ -3,9 +3,7 @@
 TidesMusic is a modern, Spotify-like music player for Windows with YouTube & playlist support, radio streaming, podcasts, and smooth animated UI. Fully ad-free and themeable!
 
 🎵 Features
-🔎 YouTube Search & Playlist Support
-📻 Radio Streaming (Dutch stations included)
-🎙 Podcast Playback
+🔎 Tides Search & Playlist Support
 ✨ Animated Playback Controls
 🎨 Themes: Dexter 🩸 | Forest 🌲 | Helldivers 2 🔫
 💓 Pulse Effect on playlist items
